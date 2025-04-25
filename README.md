@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I’m Leo Fleury — a Cognitive Science major specializing in Machine Learning at UC San Diego.
+I’m Leo Fleury — a Cognitive Science major specializing in Machine Learning at UC San Diego.
 I’m currently in my fourth year and plan to pursue a Master’s in Business Analytics at UCSD’s Rady School of Management (2025–2026). I’m passionate about solving complex problems with data and applying analytical thinking to drive real-world business decisions.
 
 ## 🔧 Skills
